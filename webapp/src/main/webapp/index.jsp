@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>I love learning devops And My Name is Dev and it's a new day, it's a new dawn...and i'm feeling GOOD.</h1>
+    <h1>I love learning devops And My Name is Dev and it's a new day, it's a new dawn.and i'm feeling GOOD.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
